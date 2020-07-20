@@ -1,24 +1,13 @@
 # travelleradmin
 
-## Project setup
-```
-npm install
-```
+旅游订单管理系统
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 技术选型
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# 后端
 
-### Lints and fixes files
-```
-npm run lint
-```
+SSM 框架
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 前端
+
+Vue + Element-UI
